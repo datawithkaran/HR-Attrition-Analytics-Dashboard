@@ -83,7 +83,7 @@ Add the dashboard screenshot below:
 
 ## Dashboard Preview
 
-![HR Dashboard](HR_Dashboard.png)
+![HR Dashboard](HR_Dashboard_Screenshot.png)
 
 ## Project Outcome
 
