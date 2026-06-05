@@ -81,7 +81,9 @@ Performed data cleaning and exploratory analysis using:
 
 Add the dashboard screenshot below:
 
-![HR_Dashboard](Dashboard%20Screenshots/HR_Dashboard.png)
+## Dashboard Preview
+
+![HR Dashboard](HR_Dashboard.png)
 
 ## Project Outcome
 
